@@ -49,6 +49,104 @@ export const TEAM_DATA: Record<TeamGroup, TeamPerson[]> = {
       ]
     },
     {
+      id: 104,
+      name: "杨明",
+      group: "mentor",
+      title: "研究员 / 博士生/硕士生导师",
+      avatar: "/DaTou/DaoShi/杨明.png", 
+      email: "yangm@sdas.org",
+      homepage: "",
+      researchDirection: "数据安全、人工智能安全、大模型安全",
+      bio: [
+        "研究员，博士生/硕士生导师。数据安全与隐私保护团队负责人。",
+        "2010年毕业于北京邮电大学，获博士学位。以第一完成人获山东省科技进步二等奖1项；获山东省科技进步一等奖2项、厅市级科技进步一等奖2项。主持国家重点研发计划子课题、山东省重大科技创新工程课题等项目6项。作为项目核心骨干，参与国家重点研发计划项目2项；作为项目核心骨干，参与中央引导地方科技发展专项、国家发改委信息安全专项、山东省重大科技创新工程、山东省自主创新成果转化重大专项、山东省重点研发计划、山东省科技发展计划、山东省科学院科技发展基金等项目14项。授权国家发明专利62项，其中以第一发明人授权国家发明专利19项；授权实用新型专利4项；获软件著作权26项。发表高水平学术论文54篇，其中以第一作者/通讯作者在IEEE TMC、IEEE IoT J、IEEE/CAA JAS等知名期刊及会议发表学术论文23篇。主持电力、医疗等行业横向项目3项。指导学生获第十三届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛三等奖1项、山东赛区一等奖1项，获山东省大学生移动互联创新创业大赛二等奖1项、三等奖1项。"
+      ], 
+      projects: [
+        "[1] 面向制造服务的数据治理需求分析及模式研究，国家重点研发计划子课题，31.5万，2021.12-2024.11，主持。",
+        "[2] 石油可信云业务协同与定制化安全关键技术研究，山东省重大科技创新工程课题，195.24万，2020.12-2023.12，主持。",
+        "[3] 面向供应链金融信息公共服务平台的异构数据安全利用关键技术研究，山东省科技型中小企业创新能力提升工程项目，40万，2023.07-2025.07，主持。",
+        "[4] 物联网数据安全保护与注入攻击关键技术研究，山东省科学院科技创新工程计划项目，100万，2019.01-2021.12，主持。",
+        "[5] 国网山东电科院2024年调度自动化系统网络安全智能对抗关键技术研究，横向项目，119.7万，2024.05-2025.10，主持。"
+      ], 
+      awards: [
+        "[1] 面向工业互联网的云/网/边/端多层次数据安全关键技术及应用，山东省科技进步二等奖（第一完成人），山东省人民政府，2022年。",
+        "[2] 面向工业智能的高可靠高质量高安全数据价值开发利用关键技术，山东省科技进步一等奖（第三完成人），中共山东省委、山东省人民政府，2024年。",
+        "[3] 物联网医疗模式构建与关键技术应用，山东省科技进步一等奖，山东省人民政府，2017年。",
+        "[4] 国家*部JZXD-*项目，国家*部厅局科技进步奖一等奖，2015。",
+        "[5] Vulnerability Analysis for IoT Devices of Multi-agent Systems: A Cryptographic Function Identification Approach, CCSICC会议最佳论文奖（通讯作者），中国指挥与控制学会，2021."
+      ], 
+      publications: [
+        "[1] 通讯作者, FedSiam-DA: Dual-aggregated Federated Learning via Siamese Network for non-IID Data, IEEE Transactions on Mobile Computing, Vol.24, No.2, pp.985-998, 2025. 中科院一区, CCF-A.",
+        "[2] 通讯作者, Neural Network-Based State Estimation for Nonlinear Systems with Denial-of-Service Attack Under Try-Once-Discard Protocol, IEEE/CAA Journal of Automatica Sinica, Vol.11, No. 10, pp.2182-2184, 2024. 中科院一区, CCF-T1.",
+        "[3] 通讯作者, Privacy-preserving Collaborative Learning: A Scheme Providing Heterogeneous Protection, IEEE Internet of Things Journal, Vol.11, No.2, pp.1840-1853, 2024. 中科院一区.",
+        "[4] 第一作者, 数据要素市场研究综述：价值、定价与交易, 网络与信息安全学报, Vol.10, No.3, pp.1-19, 2024. CCF-T2.",
+        "[5] 通讯作者, Resilient Distributed Classification Learning against Label Flipping Attack: An ADMM-based Approach, IEEE Internet of Things Journal, Vol.10, No.17, pp.15617-15631, 2023. 中科院一区."
+      ], 
+      patents: [
+        "[1] 发明专利，基于特征对比优化与分类器动态集成的联邦学习方法及装置，第1发明人，2025年。",
+        "[2] 发明专利，分布式机器学习系统中梯度异构双重优化方法、装置、电子设备及存储介质，第1发明人，2024年。",
+        "[3] 发明专利，一种针对加密图的质量约束最短路径查询方法、装置及计算机可读存储介质，第1发明人，2024年。",
+        "[4] 发明专利，基于夏普利值的数据安全共享平台多方贡献度评估方法，第1发明人，2023年。",
+        "[5] 发明专利，面向隐私保护的信息物理系统的攻击检测方法及装置，第1发明人，2022年。"
+      ]
+    },
+    {
+      id: 103,
+      name: "汪付强",
+      group: "mentor",
+      title: "博士生/硕士生导师，声信息安全团队负责人",
+      avatar: "/DaTou/DaoShi/汪付强.png", 
+      email: "wangfq@sdas.org",
+      homepage: "",
+      researchDirection: "工业互联网、物联网、大数据、信息安全、群智协同",
+      bio: [
+        "博士生/硕士生导师，声信息安全团队负责人，中国电子学会高级会员，山东省电子学会大数据与云计算专委会副主任委员，山东电子学会信息技术与信息化专委会专家。现任声信息安全团队负责人。主要从事工业互联网、物联网、大数据、信息安全、群智协同等领域的研究工作，2014-2015年澳大利亚国立大学访问学者。先后主持了国家自然基金、国家重点研发计划课题、山东省优秀中青年科学家科研奖励基金、山东省自然科学基金量子科学联合基金等科研项目。参与了国家物联网发展专项、国家信息安全专项、国家科技支撑计划子任务、山东省重点研发计划等多项省级以上研究课题。发表SCI/ET高水平论文几十篇，授权发明专利几十项，参编国家标准制定7项，获山东省专利奖一等奖1项，中国专利奖优秀奖1项，山东省科技进步一等奖1项、二等奖3项，山东省科学院科技进步一等奖1项。"
+      ], 
+      projects: [
+        "[1] 海关通关智能协同监管关键技术研究及应用示范 课题4：海关通关监管群智协同技术研究，国家重点研发计划课题，216万元，2023.11-2026.10，主持。",
+        "[2] 面向物联网的量子密钥资源分配机制研究，山东省自然科学基金量子科学联合基金，2024.1-2026.12，15万元，主持。",
+        "[3] 服务制造服务应用技术研究，52.5万， 2022.01-2024.12，主持（国家重点研发计划“服务型制造服务共性技术研发与应用”子课题）；",
+        "[4] 面向大规模传感网多跳一致的低开销时间同步方法研究,国家自然科学青年基金，22.8万， 2016.01-2018.12，主持；",
+        "[5] 重要场所声音信息安全评测系统关键技术研发与应用示范，国家重点研发计划（国际科技合作计划），88万元，2020.01-2021.12，主持子课题；",
+        "[6] 无线传感器网络周期自适应时间同步方法研究，山东省优秀中青年科学家科研奖励基金（省博士基金），4万元，2013.10-2015.10，主持；"
+      ], 
+      awards: [
+        "[1] 面向工业智能的高可靠高质量高安全数据价值开发利用关键技术，山东省科技进步一等奖，山东省人民政府，2024；",
+        "[2] 声信息安全，保密科学技术奖三等奖，国家保密局，2023；",
+        "[3] 面向工业互联网的云/网/边/端多层次数据安全关键技术及应用, 山东省科技进步二等奖，山东省人民政府，2022；",
+        "[4] GB/T 32420 无线局域网测试规范等标准在智慧城市中的应用,山东省科技进步二等奖，山东省人民政府，2019；",
+        "[5] 基于物联网技术的数据中心动力环境监测系统所采用的方法，山东省专利一等奖，山东省人民政府，2016.3；",
+        "[6] 基于物联网技术的数据中心动力环境监测系统所采用的方法，中国专利优秀奖，山中华人民共和国国家知识产权局，2016.12；",
+        "[7] 电子政务异构数据灾备模式及平台应用，山东省科学院科学技术一等奖，山东省科学院，2015。"
+      ], 
+      publications: [
+        "[1] Wei Zhao, Ronghua Shi, Xiaoming Wu, Fuqiang Wang, and Xinchao Ruan, \"Quantum digital signature with unidimensional continuous-variable against the measurement angular error,\" Opt. Express 31, 17003-17016 (2023) (SCI).",
+        "[2] Zhao, Wei , Wang Fuqiang, et al. \"Teleportation-based continuous-variable quantum digital signature.\" Results in Physics 53(2023) (SCI).",
+        "[3] Yang Shumei , Wang Kun , Ma Kun , Wang Fuqiang*, Zhang Peng.Unsupervised Anomalous Sound Detection for Mechanical Equipment Based on Domain Generalization Techniques[C]//2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD).",
+        "[4] Wang Kun , Jin Xing , Wang Fuqiang* .Improvement in the Transferability of Target Adversarial Examples Based on Data Augmentation[C]//2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). (2024):4138-4144.",
+        "[5] Fuqiang Wang, Xiaoming Wu and Zhiyong Liu, \"Energy Efficiency Time Synchronization Protocol for Wireless Sensor Networks,\" 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 5649-5654.",
+        "[6] Wang Fuqiang, Wu Xiaoming, Wang Yinglong, et al. Extensible time synchronisation protocol for wireless sensor networks[J]. International Journal of Sensor Networks, 2017, 23(1):29-39. (SCI)",
+        "[7] Fuqiang Wang, Changbin Yu, Xiaoming Wu, Yifan Hu. Dual time synchronization for wireless sensor networks, Electronics Letters, 2015, 51(2): 179-181. (SCI)",
+        "[8] Fuqiang Wang, Peng Zeng, Haibin Yu, et al. Random time source protocol in wireless sensor networks and synchronization in industrial environments[J]. Wireless Communications & Mobile Computing, 2013, 13(8). (SCI)",
+        "[9] Wang Fuqiang and Wu Xiaoming. Time Synchronization Method based on a Virtual Node for Wireless Sensor Network[C]// The 31st Chinese Control and Decision Conference, 2019: 4818-4823. (EI)",
+        "[10] Fuqiang Wang, Xiaoming Wu, Yong Pang, Changbin Yu,Yifan Hu and Xiangzhi Liu. A Time Synchronization Method of Wireless Sensor Networks Based on the Simulated Annealing Algorithm. Chinese Control and Decision Conference, 2014.",
+        "[11] Wu X , Wang Y , Wang F ,et al.Time Synchronization for Wireless Sensor Networks with a Mobile Node[J].Ad Hoc & Sensor Wireless Networks, 2017, 36(1-4):175-191."
+      ], 
+      patents: [
+        "[1] 发明专利，一种动态阈值驱动的AI 模型压缩方法及系统，第1，2026",
+        "[2] 发明专利，一种异步多传感器目标追踪自适应融合方法及系统，第1，2026",
+        "[3] 发明专利，一种基于动态超前迭代的对抗样本生成方法及系统，第1，2025",
+        "[4] 发明专利，基于特征和标签平滑的多步梯度对抗样本生成方法及系统，第1，2025",
+        "[5] 发明专利，基于扩散模型与编码语义提示词的生成式隐写方法及系统，第1，2025",
+        "[6] 发明专利，基于生成对抗网络的语音增强方法及系统，第1，2025",
+        "[7] 发明专利，基于动态自适应损失的量子密钥分发参数优化方法及系统，第1，2025",
+        "[8] 发明专利，基于零光子催化的多环离散调制量子密钥分布方法及系统，第1，2025。",
+        "[9] 发明专利，基于多角度判别的生成对抗网络的语音增强方法及系统，第1，2024",
+        "[10] 发明专利，一种基于频谱映射的主动降噪方法及系统，第1，2024",
+        "[11] 发明专利，基于声音信号的工业设备通用故障检测方法及系统，第1，2023"
+      ]
+    },
+    {
       id: 102,
       name: "王鑫",
       group: "mentor",
@@ -127,118 +225,19 @@ export const TEAM_DATA: Record<TeamGroup, TeamPerson[]> = {
       ]
     },
     {
-      id: 103,
-      name: "汪付强",
-      group: "mentor",
-      title: "博士生/硕士生导师，团队负责人",
-      avatar: "/DaTou/DaoShi/汪付强.png", 
-      email: "wangfq@sdas.org",
-      homepage: "",
-      researchDirection: "工业互联网、物联网、大数据、信息安全、群智协同",
-      bio: [
-        "博士生/硕士生导师，团队负责人，中国电子学会高级会员，山东省电子学会大数据与云计算专委会副主任委员，山东电子学会信息技术与信息化专委会专家。现任声信息安全团队负责人。主要从事工业互联网、物联网、大数据、信息安全、群智协同等领域的研究工作，2014-2015年澳大利亚国立大学访问学者。先后主持了国家自然基金、国家重点研发计划课题、山东省优秀中青年科学家科研奖励基金、山东省自然科学基金量子科学联合基金等科研项目。参与了国家物联网发展专项、国家信息安全专项、国家科技支撑计划子任务、山东省重点研发计划等多项省级以上研究课题。发表SCI/ET高水平论文几十篇，授权发明专利几十项，参编国家标准制定7项，获山东省专利奖一等奖1项，中国专利奖优秀奖1项，山东省科技进步一等奖1项、二等奖3项，山东省科学院科技进步一等奖1项。"
-      ], 
-      projects: [
-        "[1] 海关通关智能协同监管关键技术研究及应用示范 课题4：海关通关监管群智协同技术研究，国家重点研发计划课题，216万元，2023.11-2026.10，主持。",
-        "[2] 面向物联网的量子密钥资源分配机制研究，山东省自然科学基金量子科学联合基金，2024.1-2026.12，15万元，主持。",
-        "[3] 服务制造服务应用技术研究，52.5万， 2022.01-2024.12，主持（国家重点研发计划“服务型制造服务共性技术研发与应用”子课题）；",
-        "[4] 面向大规模传感网多跳一致的低开销时间同步方法研究,国家自然科学青年基金，22.8万， 2016.01-2018.12，主持；",
-        "[5] 重要场所声音信息安全评测系统关键技术研发与应用示范，国家重点研发计划（国际科技合作计划），88万元，2020.01-2021.12，主持子课题；",
-        "[6] 无线传感器网络周期自适应时间同步方法研究，山东省优秀中青年科学家科研奖励基金（省博士基金），4万元，2013.10-2015.10，主持；"
-      ], 
-      awards: [
-        "[1] 面向工业智能的高可靠高质量高安全数据价值开发利用关键技术，山东省科技进步一等奖，山东省人民政府，2024；",
-        "[2] 声信息安全，保密科学技术奖三等奖，国家保密局，2023；",
-        "[3] 面向工业互联网的云/网/边/端多层次数据安全关键技术及应用, 山东省科技进步二等奖，山东省人民政府，2022；",
-        "[4] GB/T 32420 无线局域网测试规范等标准在智慧城市中的应用,山东省科技进步二等奖，山东省人民政府，2019；",
-        "[5] 基于物联网技术的数据中心动力环境监测系统所采用的方法，山东省专利一等奖，山东省人民政府，2016.3；",
-        "[6] 基于物联网技术的数据中心动力环境监测系统所采用的方法，中国专利优秀奖，山中华人民共和国国家知识产权局，2016.12；",
-        "[7] 电子政务异构数据灾备模式及平台应用，山东省科学院科学技术一等奖，山东省科学院，2015。"
-      ], 
-      publications: [
-        "[1] Wei Zhao, Ronghua Shi, Xiaoming Wu, Fuqiang Wang, and Xinchao Ruan, \"Quantum digital signature with unidimensional continuous-variable against the measurement angular error,\" Opt. Express 31, 17003-17016 (2023) (SCI).",
-        "[2] Zhao, Wei , Wang Fuqiang, et al. \"Teleportation-based continuous-variable quantum digital signature.\" Results in Physics 53(2023) (SCI).",
-        "[3] Yang Shumei , Wang Kun , Ma Kun , Wang Fuqiang*, Zhang Peng.Unsupervised Anomalous Sound Detection for Mechanical Equipment Based on Domain Generalization Techniques[C]//2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD).",
-        "[4] Wang Kun , Jin Xing , Wang Fuqiang* .Improvement in the Transferability of Target Adversarial Examples Based on Data Augmentation[C]//2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). (2024):4138-4144.",
-        "[5] Fuqiang Wang, Xiaoming Wu and Zhiyong Liu, \"Energy Efficiency Time Synchronization Protocol for Wireless Sensor Networks,\" 2021 40th Chinese Control Conference (CCC), Shanghai, China, 2021, pp. 5649-5654.",
-        "[6] Wang Fuqiang, Wu Xiaoming, Wang Yinglong, et al. Extensible time synchronisation protocol for wireless sensor networks[J]. International Journal of Sensor Networks, 2017, 23(1):29-39. (SCI)",
-        "[7] Fuqiang Wang, Changbin Yu, Xiaoming Wu, Yifan Hu. Dual time synchronization for wireless sensor networks, Electronics Letters, 2015, 51(2): 179-181. (SCI)",
-        "[8] Fuqiang Wang, Peng Zeng, Haibin Yu, et al. Random time source protocol in wireless sensor networks and synchronization in industrial environments[J]. Wireless Communications & Mobile Computing, 2013, 13(8). (SCI)",
-        "[9] Wang Fuqiang and Wu Xiaoming. Time Synchronization Method based on a Virtual Node for Wireless Sensor Network[C]// The 31st Chinese Control and Decision Conference, 2019: 4818-4823. (EI)",
-        "[10] Fuqiang Wang, Xiaoming Wu, Yong Pang, Changbin Yu,Yifan Hu and Xiangzhi Liu. A Time Synchronization Method of Wireless Sensor Networks Based on the Simulated Annealing Algorithm. Chinese Control and Decision Conference, 2014.",
-        "[11] Wu X , Wang Y , Wang F ,et al.Time Synchronization for Wireless Sensor Networks with a Mobile Node[J].Ad Hoc & Sensor Wireless Networks, 2017, 36(1-4):175-191."
-      ], 
-      patents: [
-        "[1] 发明专利，一种动态阈值驱动的AI 模型压缩方法及系统，第1，2026",
-        "[2] 发明专利，一种异步多传感器目标追踪自适应融合方法及系统，第1，2026",
-        "[3] 发明专利，一种基于动态超前迭代的对抗样本生成方法及系统，第1，2025",
-        "[4] 发明专利，基于特征和标签平滑的多步梯度对抗样本生成方法及系统，第1，2025",
-        "[5] 发明专利，基于扩散模型与编码语义提示词的生成式隐写方法及系统，第1，2025",
-        "[6] 发明专利，基于生成对抗网络的语音增强方法及系统，第1，2025",
-        "[7] 发明专利，基于动态自适应损失的量子密钥分发参数优化方法及系统，第1，2025",
-        "[8] 发明专利，基于零光子催化的多环离散调制量子密钥分布方法及系统，第1，2025。",
-        "[9] 发明专利，基于多角度判别的生成对抗网络的语音增强方法及系统，第1，2024",
-        "[10] 发明专利，一种基于频谱映射的主动降噪方法及系统，第1，2024",
-        "[11] 发明专利，基于声音信号的工业设备通用故障检测方法及系统，第1，2023"
-      ]
-    },
-    {
-      id: 104,
-      name: "杨明",
-      group: "mentor",
-      title: "研究员 / 博士生/硕士生导师",
-      avatar: "/DaTou/DaoShi/杨明.png", 
-      email: "yangm@sdas.org",
-      homepage: "",
-      researchDirection: "数据安全、人工智能安全、大模型安全",
-      bio: [
-        "研究员，博士生/硕士生导师。数据安全与隐私保护团队负责人。",
-        "2010年毕业于北京邮电大学，获博士学位。以第一完成人获山东省科技进步二等奖1项；获山东省科技进步一等奖2项、厅市级科技进步一等奖2项。主持国家重点研发计划子课题、山东省重大科技创新工程课题等项目6项。作为项目核心骨干，参与国家重点研发计划项目2项；作为项目核心骨干，参与中央引导地方科技发展专项、国家发改委信息安全专项、山东省重大科技创新工程、山东省自主创新成果转化重大专项、山东省重点研发计划、山东省科技发展计划、山东省科学院科技发展基金等项目14项。授权国家发明专利62项，其中以第一发明人授权国家发明专利19项；授权实用新型专利4项；获软件著作权26项。发表高水平学术论文54篇，其中以第一作者/通讯作者在IEEE TMC、IEEE IoT J、IEEE/CAA JAS等知名期刊及会议发表学术论文23篇。主持电力、医疗等行业横向项目3项。指导学生获第十三届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛三等奖1项、山东赛区一等奖1项，获山东省大学生移动互联创新创业大赛二等奖1项、三等奖1项。"
-      ], 
-      projects: [
-        "[1] 面向制造服务的数据治理需求分析及模式研究，国家重点研发计划子课题，31.5万，2021.12-2024.11，主持。",
-        "[2] 石油可信云业务协同与定制化安全关键技术研究，山东省重大科技创新工程课题，195.24万，2020.12-2023.12，主持。",
-        "[3] 面向供应链金融信息公共服务平台的异构数据安全利用关键技术研究，山东省科技型中小企业创新能力提升工程项目，40万，2023.07-2025.07，主持。",
-        "[4] 物联网数据安全保护与注入攻击关键技术研究，山东省科学院科技创新工程计划项目，100万，2019.01-2021.12，主持。",
-        "[5] 国网山东电科院2024年调度自动化系统网络安全智能对抗关键技术研究，横向项目，119.7万，2024.05-2025.10，主持。"
-      ], 
-      awards: [
-        "[1] 面向工业互联网的云/网/边/端多层次数据安全关键技术及应用，山东省科技进步二等奖（第一完成人），山东省人民政府，2022年。",
-        "[2] 面向工业智能的高可靠高质量高安全数据价值开发利用关键技术，山东省科技进步一等奖（第三完成人），中共山东省委、山东省人民政府，2024年。",
-        "[3] 物联网医疗模式构建与关键技术应用，山东省科技进步一等奖，山东省人民政府，2017年。",
-        "[4] 国家*部JZXD-*项目，国家*部厅局科技进步奖一等奖，2015。",
-        "[5] Vulnerability Analysis for IoT Devices of Multi-agent Systems: A Cryptographic Function Identification Approach, CCSICC会议最佳论文奖（通讯作者），中国指挥与控制学会，2021."
-      ], 
-      publications: [
-        "[1] 通讯作者, FedSiam-DA: Dual-aggregated Federated Learning via Siamese Network for non-IID Data, IEEE Transactions on Mobile Computing, Vol.24, No.2, pp.985-998, 2025. 中科院一区, CCF-A.",
-        "[2] 通讯作者, Neural Network-Based State Estimation for Nonlinear Systems with Denial-of-Service Attack Under Try-Once-Discard Protocol, IEEE/CAA Journal of Automatica Sinica, Vol.11, No. 10, pp.2182-2184, 2024. 中科院一区, CCF-T1.",
-        "[3] 通讯作者, Privacy-preserving Collaborative Learning: A Scheme Providing Heterogeneous Protection, IEEE Internet of Things Journal, Vol.11, No.2, pp.1840-1853, 2024. 中科院一区.",
-        "[4] 第一作者, 数据要素市场研究综述：价值、定价与交易, 网络与信息安全学报, Vol.10, No.3, pp.1-19, 2024. CCF-T2.",
-        "[5] 通讯作者, Resilient Distributed Classification Learning against Label Flipping Attack: An ADMM-based Approach, IEEE Internet of Things Journal, Vol.10, No.17, pp.15617-15631, 2023. 中科院一区."
-      ], 
-      patents: [
-        "[1] 发明专利，基于特征对比优化与分类器动态集成的联邦学习方法及装置，第1发明人，2025年。",
-        "[2] 发明专利，分布式机器学习系统中梯度异构双重优化方法、装置、电子设备及存储介质，第1发明人，2024年。",
-        "[3] 发明专利，一种针对加密图的质量约束最短路径查询方法、装置及计算机可读存储介质，第1发明人，2024年。",
-        "[4] 发明专利，基于夏普利值的数据安全共享平台多方贡献度评估方法，第1发明人，2023年。",
-        "[5] 发明专利，面向隐私保护的信息物理系统的攻击检测方法及装置，第1发明人，2022年。"
-      ]
-    },
-    {
       id: 105,
       name: '魏靖烜',
       group: 'mentor',
-      title: '中国科学院大学博士候选人',
+      title: '中国科学院大学博士，齐鲁青创学者，特聘副教授，多模态推理研究组负责人。',
       avatar: '/DaTou/DaoShi/魏靖烜.png',
-      email: 'wjx@qlu.edu.cn',
+      email: 'weijingxuan20@mails.ucas.edu.cn',
       homepage: 'https://weijingxuan.github.io/homepage/',
-      researchDirection: '多模态大模型推理、多模态智能体推理、知识蒸馏',
+      researchDirection: '多模态大模型可信推理，多模态智能体，知识蒸馏与模型压缩',
       bio: [
-        '中国科学院大学博士候选人，研究方向聚焦多模态大模型推理、多模态智能体推理与知识蒸馏。',
-        '现为中国科学院大学硕博连读项目第五年学生（2020年至今），预计于2026年6月毕业。',
-        '主页自述其研究兴趣包括多模态大模型推理、多模态代理/智能体推理以及知识蒸馏。',
-        '教育经历：2023.03至今，中国科学院大学，博士，导师为Ruifeng Guo教授和Bihui Yu教授；2020.09-2022.12，中国科学院大学，硕士，导师为Bihui Yu教授；2016.09-2020.06，内蒙古科技大学，本科，专业及学院排名第一。',
-        '学术服务：担任ACL、EMNLP、ICASSP、ICLR、ICML、NeurIPS、KDD、IJCV等会议或期刊的程序委员会成员/审稿人。'
+        '核心研究方向：多模态大模型可信推理，多模态智能体，知识蒸馏与模型压缩',
+        '累积发表论文50余篇，其中一作/通讯20余篇，包括CVPR、ICML、ACL、ACM MM等。',
+        '担任2023年、2024年、2025年国际计算机通信会议 (ICCC) 分会主席，中国科学院沈阳计算所博士学术研讨会主席。',        
+        '2023年担任天津大学兼职教师，担任沈阳计算所多模态团队多模态大模型组负责人，2025年作为豆包数理组核心成员之一参与字节seed团队豆包大模型解题相关工作。',
       ],
       projects: [],
       awards: [
@@ -250,17 +249,15 @@ export const TEAM_DATA: Record<TeamGroup, TeamPerson[]> = {
         '2022.09 国家奖学金'
       ],
       publications: [
-        "[1] Jingxuan Wei, Cheng Tan, Qi Chen, Gaowei Wu, Siyuan Li, Zhangyang Gao, Linzhuang Sun, Bihui Yu, Ruifeng Guo. From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing. CVPR 2025.",
-        "[2] Cheng Tan, Jingxuan Wei, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Xihong Yang, Stan Z. Li. Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training. ECCV 2024.",
-        "[3] Jingxuan Wei, Cheng Tan, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li. Enhancing Human-like Multimodal Reasoning: A New Challenging Dataset and Comprehensive Framework. Neural Computing and Applications, 2024.",
-        "[4] Ruifeng Guo, Jingxuan Wei, Linzhuang Sun, Bihui Yu, Guiyong Chang, Dawei Liu, Sibo Zhang, Zhengbing Yao, Mingjun Xu, Liping Bu. A Survey on Advancements in Image-Text Multimodal Models: From General Techniques to Biomedical Implementations. Computers in Biology and Medicine, 2024.",
-        "[5] Jingxuan Wei, Cheng Tan, Zhangyang Gao, Linzhuang Sun, Bihui Yu, Ruifeng Guo, Stan Li. Interpretable and Generalizable Spatiotemporal Predictive Learning with Disentangled Consistency. ECML-PKDD 2024.",
-        "[6] Jingxuan Wei, Linzhuang Sun, Yichong Leng, Xu Tan, Bihui Yu, Ruifeng Guo. Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation. IJCAI 2024.",
-        "[7] MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification. arXiv.",
-        "[8] Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models. SMC.",
-        "[9] SAM-Wav2lip++: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement. SMC.",
-        "[10] TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge. ADMA.",
-        "[11] Feature-guided Multimodal Sentiment Analysis Towards Industry 4.0. Computers & Electrical Engineering."
+        "[1]Wei, J., Jia, C., Chen, Q., He, H., Sun, L., He, C., Wu, L., Yu, B., & Tan, C. (2026). Geoint-R1: Formalizing multimodal geometric reasoning with dynamic auxiliary constructions. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). ",
+        "[2]Wei, J., Jia, C., Bai, X., Xu, X., Li, S., Sun, L., Yu, B., He, C., Wu, L., & Tan, C. (2026). GGBench: A geometric generative reasoning benchmark for unified multimodal models. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). ",
+        "[3]Wei, J., Tan, C., Chen, Q., Wu, G., Li, S., Gao, Z., Sun, L., Yu, B., & Guo, R. (2025). From words to structured visuals: A benchmark and framework for text-to-diagram generation and editing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), 13315-13325. https://doi.org/10.1109/CVPR52734.2025.01243 ",
+        "[4]Wei, J., Xu, N., Chang, G., Luo, Y., Yu, B., & Guo, R. (2025). mChartQA and mChartQABench: A multimodal-only solution for complex chart question-answering. Pattern Recognition, 172(Part A). https://doi.org/10.1016/j.patcog.2025.112348 ",
+        "[5]Wei, J., Sun, L., Leng, Y., Tan, X., Yu, B., & Guo, R. (2024). Sentence-level or token-level? A comprehensive study on knowledge distillation. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI), 6531-6540. https://doi.org/10.24963/ijcai.2024/722",
+        "[6]Wei, J., Wang, X., Liao, Y., Dong, J., Liu, Y., Jia, C., Yu, B., & Zhu, J. (2026). GenProve: Learning to generate text with fine-grained provenance. Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2026).  ",
+        "[7]Wei, J., Xu, N., Zhu, J., Hao, Y., Wu, G., Chen, Q., Yu, B., & Wang, L. (2025). ChartMind: A comprehensive benchmark for complex real-world multimodal chart question answering. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), 4555-4569. https://doi.org/10.18653/v1/2025.emnlp-main.226",
+        "[8] Tan, C., Wei, J., Gao, Z., Sun, L., Li, S., Guo, R., Yu, B., & Li, S. Z. (2024). Boosting the power of small multimodal reasoning models to match larger models with self-consistency training. Computer Vision - ECCV 2024, Lecture Notes in Computer Science, 15098, 305-322. https://doi.org/10.1007/978-3-031-73661-2_17",
+        "[9]Wei, J., Tan, C., Gao, Z., Sun, L., Yu, B., Guo, R., & Li, S. Z. (2024). Interpretable and generalizable spatiotemporal predictive learning with disentangled consistency. Machine Learning and Knowledge Discovery in Databases, Lecture Notes in Computer Science, 14943, 3-20. https://doi.org/10.1007/978-3-031-70352-2_1",
       ],
       patents: []
     },
@@ -268,17 +265,16 @@ export const TEAM_DATA: Record<TeamGroup, TeamPerson[]> = {
       id: 106,
         name: '谭铖',
         group: 'mentor',
-        title: '研究员 / 上海人工智能实验室',
+        title: '上海人工智能实验室OpenDataLab，青年科学家，西湖大学博士',
         avatar: '/DaTou/DaoShi/谭铖.jpg',
         email: 'chengtan9907@gmail.com',
         homepage: 'https://chengtan9907.github.io/',
-        researchDirection: 'AI for Science、科学推理模型',
+        researchDirection: '科学人工智能与科学推理 ，多模态大模型与推理，生物分子设计与计算生物学，时空预测学习',
         bio: [
-          '上海人工智能实验室研究员，任职于 OpenDataLab。',
-          '2025 年于浙江大学与西湖大学获得博士学位，导师为 Stan Z. Li 教授。',
-          '研究方向聚焦 AI for Science 和 scientific reasoning model。',
-          '教育与经历：2025 年 7 月起任上海人工智能实验室研究员；2021 年 9 月至 2025 年 6 月在浙江大学与西湖大学攻读计算机科学与技术博士；2023 年 10 月至 2024 年 10 月在 Tencent AI Lab 开展可控蛋白质设计研究；2019 年 7 月至 2019 年 10 月在加拿大阿尔伯塔大学担任研究助理；2017 年 9 月至 2021 年 6 月本科就读于西北农林科技大学计算机科学与技术专业。'
-        ],
+          '累计发表论文115篇，包括Nature Communications、Nature Machine、 Intelligence、TPAMI、TKDE、TMM等顶级期刊。',
+          '曾荣获博士研究生国家奖学金，受邀出任 ICLR 领域主席，并长期担任 TPAMI、CVPR 等国际顶级人工智能期刊与会议的程序委员会委员，深度参与核心学术审查工作。',
+          '核心研究方向主要有：科学人工智能与科学推理 ，多模态大模型与推理 (Multimodal Foundation Models & Reasoning)，生物分子设计与计算生物学 (Biomolecular Design & Computational Biology)，时空预测学习 (Spatiotemporal Predictive Learning)。',
+          ],
         projects: [],
         awards: [
           '2023/10：National Scholarship',
